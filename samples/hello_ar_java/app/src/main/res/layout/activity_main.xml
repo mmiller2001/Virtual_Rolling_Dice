@@ -23,16 +23,25 @@
       android:id="@+id/surfaceview"
       android:layout_width="fill_parent"
       android:layout_height="fill_parent"
-      android:layout_gravity="top"/>
+      android:layout_gravity="top" />
 
   <ImageButton
       android:id="@+id/settings_button"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:layout_alignParentEnd="true"
       android:layout_alignParentTop="true"
+      android:layout_alignParentEnd="true"
       android:layout_margin="25dp"
-      android:src="@drawable/ic_settings"
-      android:background="@android:color/transparent"/>
+      android:background="@android:color/transparent"
+      android:src="@drawable/ic_settings" />
+
+  <Button
+      android:id="@+id/buttonroll"
+      android:layout_width="250dp"
+      android:layout_height="81dp"
+      android:layout_alignParentBottom="true"
+      android:layout_centerHorizontal="true"
+      android:layout_marginBottom="38dp"
+      android:text="Roll Dice" />
 
 </RelativeLayout>

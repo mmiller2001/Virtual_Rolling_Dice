@@ -31,4 +31,25 @@
     <item>Enable Instant Placement</item>
   </string-array>
 
+  <string name="oneup">models/1up.png</string>
+  <string name="twoup">models/2up.png</string>
+  <string name="threeup">models/3up.png</string>
+  <string name="fourup">models/4up.png</string>
+  <string name="fiveup">models/5up.png</string>
+  <string name="sixup">models/6up.png</string>
+  <string name="sevenup">models/7up.png</string>
+  <string name="eightup">models/8up.png</string>
+  <string name="nineup">models/9up.png</string>
+  <string name="tenup">models/10up.png</string>
+  <string name="elevenup">models/11up.png</string>
+  <string name="twelveup">models/12up.png</string>
+  <string name="thirteenup">models/13up.png</string>
+  <string name="fourteenup">models/14up.png</string>
+  <string name="fifteenup">models/15up.png</string>
+  <string name="sixteenup">models/16up.png</string>
+  <string name="seventeenup">models/17up.png</string>
+  <string name="eighteenup">models/18up.png</string>
+  <string name="nineteenup">models/19up.png</string>
+  <string name="twentyup">models/20up.png</string>
+
 </resources>
